@@ -1,4 +1,4 @@
-<b>Song Recommender<br>
+# Song Recommender<br>
 Description:<br>
 The recommender.ipynb script is designed to provide song recommendations based on user input and historical data. Utilizing advanced algorithms, it ensures accurate and relevant song suggestions.<br>
 <br>
